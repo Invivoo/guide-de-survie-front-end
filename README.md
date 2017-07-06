@@ -3,11 +3,11 @@ Guide de survit du développeur Front End
 
 ## Contenu
 
-* [Desktop](#Desktop)
-* [Web](#Web)
-* [Mobile](#Mobile)
-* [Toolbox](#Toolbox)
-* [UX](#UX)
+* [Desktop](#desktop)
+* [Web](#web)
+* [Mobile](#mobile)
+* [Toolbox](#toolbox)
+* [UX](#ux)
 
 ## Desktop
 
