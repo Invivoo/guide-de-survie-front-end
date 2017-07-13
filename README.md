@@ -61,6 +61,16 @@ Guide de survit du développeur Front End
 
 ## UX
 
+* Guide de Microsoft (Anglais) - [Design applications for the Windows desktop](https://developer.microsoft.com/en-us/windows/desktop/design)
+
+## Miscellaneous
+
+### Design
+
+* [Color Picker](http://paletton.com)
+* [Générateur d'icône](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
+* [Convertisseur PNG -> ICO](http://www.pngfactory.net/customxp/conversion-png-ico-en-ligne.html)
+
 ### Javascript
 
 * Livre en ligne (Anglais) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
