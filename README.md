@@ -1,5 +1,5 @@
-
 # Guide de survie du développeur Front End
+
 Guide de survit du développeur Front End
 
 ## Contenu
@@ -44,7 +44,7 @@ Guide de survit du développeur Front End
 
 * Gestionnaire de build Javascript et repository de packages 
 * Projet - [https://www.npmjs.com/](https://www.npmjs.com/)
-* Introduction à NPM (Anglais) - des tutoriaux et des videos : [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
+* Introduction à NPM (Anglais) - des tutoriaux et des vidéos : [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
 
 ### Yarn
 
