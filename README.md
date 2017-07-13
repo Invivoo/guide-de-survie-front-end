@@ -36,7 +36,7 @@ Guide de survit du développeur Front End
 
 ### NodeJS
 
-* Server-side, browserless  Javacript
+* Server-side, browserless  Javascript
 * Projet - [https://nodejs.org/fr/](https://nodejs.org/fr/)
 * Moteur NodeJS dans le cloud - [https://repl.it/languages/nodejs](https://repl.it/languages/nodejs)
 * Présentation (Anglais) - [NodeJS, the Server-Side JavaScript](https://www.slideshare.net/vikasing/introduction-to-nodejs-11730771)
