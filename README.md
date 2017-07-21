@@ -7,7 +7,6 @@ Guide de survit du développeur Front End
 * [Desktop](#desktop)
 * [Web](#web)
 * [Mobile](#mobile)
-* [Toolbox](#toolbox)
 * [UX](#ux)
 
 ## Desktop
@@ -18,9 +17,40 @@ Guide de survit du développeur Front End
 
 ## Web
 
+### Toolbox
+
+#### NodeJS
+
+* Server-side, browserless  Javascript
+* Projet - [https://nodejs.org/fr/](https://nodejs.org/fr/)
+* Moteur NodeJS dans le cloud - [https://repl.it/languages/nodejs](https://repl.it/languages/nodejs)
+* Présentation (Anglais) - [NodeJS, the Server-Side JavaScript](https://www.slideshare.net/vikasing/introduction-to-nodejs-11730771)
+
+#### NPM
+
+* Gestionnaire de build Javascript et repository de packages
+* Projet - [https://www.npmjs.com/](https://www.npmjs.com/)
+* Des tutoriaux et des vidéos (Anglais) - [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
+
+#### Yarn
+
+* Gestionnaire de build Javascript, compatible avec NPM mais plus scalable
+* Projet - [https://yarnpkg.com/fr/](https://yarnpkg.com/fr/)
+* Article (Anglais) - [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+
+#### Webpack
+
+* Gestionnaire de build Javascript, gestion de dépendances et génération de bundle déployable.
+* Projet - [https://webpack.github.io/](https://webpack.github.io/)
+* Vidéo (Anglais) - [Front EndCenter - Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+
 ### ReactJS
 
 ### Angular
+
+* Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
+* Article - Bien structurer son projet (Anglais) - [Style Guide Angular](https://angular.io/guide/styleguide)
+* Article - Inclure un projet Angular dans une application Spring Boot - [Blog JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
 
 ## Mobile
 
@@ -31,33 +61,6 @@ Guide de survit du développeur Front End
 ### Xamarin
 
 ### React Native
-
-## Toolbox
-
-### NodeJS
-
-* Server-side, browserless  Javascript
-* Projet - [https://nodejs.org/fr/](https://nodejs.org/fr/)
-* Moteur NodeJS dans le cloud - [https://repl.it/languages/nodejs](https://repl.it/languages/nodejs)
-* Présentation (Anglais) - [NodeJS, the Server-Side JavaScript](https://www.slideshare.net/vikasing/introduction-to-nodejs-11730771)
-
-### NPM
-
-* Gestionnaire de build Javascript et repository de packages
-* Projet - [https://www.npmjs.com/](https://www.npmjs.com/)
-* Des tutoriaux et des vidéos (Anglais) - [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
-
-### Yarn
-
-* Gestionnaire de build Javascript, compatible avec NPM mais plus scalable
-* Projet - [https://yarnpkg.com/fr/](https://yarnpkg.com/fr/)
-* Article (Anglais) - [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
-
-### Webpack
-
-* Gestionnaire de build Javascript, gestion de dépendances et génération de bundle déployable.
-* Projet - [https://webpack.github.io/](https://webpack.github.io/)
-* Vidéo (Anglais) - [Front EndCenter - Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 
 ## UX
 
