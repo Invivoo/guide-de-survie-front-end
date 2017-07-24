@@ -46,6 +46,8 @@ Guide de survit du développeur Front End
 
 ### ReactJS
 
+* Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
+
 ### Angular
 
 * Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
