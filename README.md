@@ -27,6 +27,10 @@ Guide de survit du développeur Front End
 
 * Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
 
+### Redux
+
+* Architecture et best practices (Anglais) - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
+
 ### Toolbox
 
 #### NodeJS
