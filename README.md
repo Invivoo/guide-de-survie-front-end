@@ -1,33 +1,27 @@
-# Guide de survie du développeur Front End
+# <center>Guide de survie du développeur Front-End </center>
 
-Guide de survit du développeur Front End
+Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été écrit par des consultants experts dans les différentes technologies Front-End utilisées par les clients d'Invivoo. N'hésitez pas à nous contacter si vous voyez des liens qui ne fonctionnent plus ou pour proposer des nouvelles ressources à ajouter. Nous espérons que ce guide vous permettra de progresser sur les technologies Front-End.
 
 ## Contenu
 
-* [Desktop](#desktop)
 * [Web](#web)
 * [Mobile](#mobile)
+* [Desktop](#desktop)
 * [UX](#ux)
-
-## Desktop
-
-### Winform
-
-### WPF
 
 ## Web
 
-### Angular
+### ![Logo Angular](images/angular.png "Angular") Angular
 
 * Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
 * Article - Bien structurer son projet (Anglais) - [Style Guide Angular](https://angular.io/guide/styleguide)
 * Article - Inclure un projet Angular dans une application Spring Boot - [Blog JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
 
-### ReactJS
+### ![Logo ReactJS](images/reactjs.png "ReactJS") ReactJS
 
 * Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
 
-### Redux
+### ![Logo Redux](images/redux.png "Redux") Redux
 
 * Architecture et best practices (Anglais) - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
 
@@ -67,6 +61,12 @@ Guide de survit du développeur Front End
 ### Xamarin
 
 ### React Native
+
+## Desktop
+
+### WPF
+
+### Winform
 
 ## UX
 
