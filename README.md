@@ -17,6 +17,16 @@ Guide de survit du développeur Front End
 
 ## Web
 
+### Angular
+
+* Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
+* Article - Bien structurer son projet (Anglais) - [Style Guide Angular](https://angular.io/guide/styleguide)
+* Article - Inclure un projet Angular dans une application Spring Boot - [Blog JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
+
+### ReactJS
+
+* Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
+
 ### Toolbox
 
 #### NodeJS
@@ -43,16 +53,6 @@ Guide de survit du développeur Front End
 * Gestionnaire de build Javascript, gestion de dépendances et génération de bundle déployable.
 * Projet - [https://webpack.github.io/](https://webpack.github.io/)
 * Vidéo (Anglais) - [Front EndCenter - Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
-
-### ReactJS
-
-* Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
-
-### Angular
-
-* Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
-* Article - Bien structurer son projet (Anglais) - [Style Guide Angular](https://angular.io/guide/styleguide)
-* Article - Inclure un projet Angular dans une application Spring Boot - [Blog JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
 
 ## Mobile
 
