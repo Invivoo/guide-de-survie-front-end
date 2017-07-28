@@ -23,7 +23,10 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 
 ### ![Logo Redux](images/redux.png "Redux") Redux
 
+* Débuter avec Redux (vidéos réalisées par Dan Abramov créateur de Redux - Anglais) - [Getting started with Redux](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
 * Architecture et best practices (Anglais) - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
+* Redux tips - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+* La documentation officielle Redux fournit également un ensemble de bonnes pratiques, en particulier le chapitre sur le [refactoring des reducers](http://redux.js.org/docs/recipes/reducers/RefactoringReducersExample.html)
 
 ### Toolbox
 
