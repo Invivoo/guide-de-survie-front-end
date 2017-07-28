@@ -19,14 +19,19 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 
 ### ![Logo ReactJS](images/reactjs.png "ReactJS") ReactJS
 
+* Tutoriel sur le site officiel pour découvrir ReactJS - [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+* Apprendre ReactJS en 5 étapes (Anglais) - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 * Des exercices pratiques - [Programming Koans](https://github.com/arkency/reactjs_koans)
+* Résoudre des problèmes de performance (Anglais) - [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
+* [Is React reactive ?](https://fr.slideshare.net/mauricedb/is-react-reactive)
 
 ### ![Logo Redux](images/redux.png "Redux") Redux
 
 * Débuter avec Redux (vidéos réalisées par Dan Abramov créateur de Redux - Anglais) - [Getting started with Redux](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
 * Architecture et best practices (Anglais) - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
-* Redux tips - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+* Redux tips (Anglais) - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 * La documentation officielle Redux fournit également un ensemble de bonnes pratiques, en particulier le chapitre sur le [refactoring des reducers](http://redux.js.org/docs/recipes/reducers/RefactoringReducersExample.html)
+* [Introduction to Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) (Anglais)
 
 ### Toolbox
 
@@ -54,6 +59,10 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Gestionnaire de build Javascript, gestion de dépendances et génération de bundle déployable.
 * Projet - [https://webpack.github.io/](https://webpack.github.io/)
 * Vidéo (Anglais) - [Front EndCenter - Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+
+#### Create React App
+* Outil permettant de mettre en place un environnement ReactJS rapidement, facilement et sans configuration
+* Projet - [https://github.com/facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ## Mobile
 
