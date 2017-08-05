@@ -96,3 +96,4 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 
 * Livre en ligne (Anglais) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * Présentation (Anglais) - [All of Modern JavaScript in 45 minutes! ES6, ES2015, ECMAScript, NodeJS, npm, Babel, webpack, ReactJS, JSX... and of course ... the 12 new JS things they invent during this presentation](https://www.slideshare.net/weaverryan/finally-professional-frontend-dev-with-reactjs-webpack-symfony-symfony-cat-2016?from_m_app=ios) 
+* ES6 Katas (Anglais) - [Learn ES6 by doing it. Fix failing tests. Keep all learnings.](http://es6katas.org/)
