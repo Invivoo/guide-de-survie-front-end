@@ -25,6 +25,7 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Résoudre des problèmes de performance (Anglais) - [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
 * [Is React reactive ?](https://fr.slideshare.net/mauricedb/is-react-reactive)
 * Pattern utile en ReactJS (Anglais) - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* Gérer la navigation et la structure d'une application web (Anglais) - [All About React Router 4](https://css-tricks.com/react-router-4/)
 * UI - [Semantic UI for React](https://react.semantic-ui.com/introduction) ou [Grommet](https://grommet.github.io/)
 * UI data grid - [Griddle](https://griddlegriddle.github.io/Griddle/)
 
