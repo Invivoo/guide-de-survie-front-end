@@ -36,6 +36,7 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Redux tips (Anglais) - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 * La documentation officielle Redux fournit également un ensemble de bonnes pratiques, en particulier le chapitre sur le [refactoring des reducers](http://redux.js.org/docs/recipes/reducers/RefactoringReducersExample.html)
 * [Introduction to Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) (Anglais)
+* [Reselect - Selector library for Redux](https://github.com/reactjs/reselect)
 
 ### Toolbox
 
