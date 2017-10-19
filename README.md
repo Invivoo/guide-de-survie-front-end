@@ -1,4 +1,4 @@
-# <center>Guide de survie du développeur Front-End </center>
+# Guide de survie du développeur Front-End
 
 Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été écrit par des consultants experts dans les différentes technologies Front-End utilisées par les clients d'Invivoo. N'hésitez pas à nous contacter si vous voyez des liens qui ne fonctionnent plus ou pour proposer des nouvelles ressources à ajouter. Nous espérons que ce guide vous permettra de progresser sur les technologies Front-End.
 
@@ -69,6 +69,23 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Outil permettant de mettre en place un environnement ReactJS rapidement, facilement et sans configuration
 * Projet - [https://github.com/facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
 
+## Desktop
+
+### ![Logo WPF](images/wpf.png "WPF") WPF
+
+* Windows Presentation Foundation (WPF) fournit aux développeurs la possibiltié de créer des applications de bureau modernes pour Windows
+* Projet - [https://msdn.microsoft.com/fr-fr/library/aa970268(v=vs.110).aspx](https://msdn.microsoft.com/fr-fr/library/aa970268(v=vs.110).aspx)
+* Créer sa première application WPF pas à pas - [https://msdn.microsoft.com/fr-fr/library/ms752299(v=vs.110).aspx](https://msdn.microsoft.com/fr-fr/library/ms752299(v=vs.110).aspx)
+* Des tutoriaux sur le WPF de A à Z - [http://www.wpf-tutorial.com](http://www.wpf-tutorial.com)
+
+### ![Logo Winform](images/winform.png "Winform") Winform
+
+* Winform (Windows Forms) est l'interface graphique incluse dans le framework .NET depuis 2006. Winform est destiné à être remplacé par WPF.
+* Projet - [https://docs.microsoft.com/fr-fr/visualstudio/ide/step-1-create-a-windows-forms-application-project](https://docs.microsoft.com/fr-fr/visualstudio/ide/step-1-create-a-windows-forms-application-project)
+* Turoriel rapide sur openclassrooms - [https://openclassrooms.com/courses/apprenez-a-programmer-en-c-sur-net/les-winforms-ou-windows-forms](https://openclassrooms.com/courses/apprenez-a-programmer-en-c-sur-net/les-winforms-ou-windows-forms)
+* FAQ developpez.com sur le Winform - [https://dotnet.developpez.com/cours/?page=csharp#winformcs](https://dotnet.developpez.com/cours/?page=csharp#winformcs)
+
+
 ## Mobile
 
 ### iOS
@@ -78,12 +95,6 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 ### Xamarin
 
 ### React Native
-
-## Desktop
-
-### WPF
-
-### Winform
 
 ## UX
 
