@@ -28,6 +28,7 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Gérer la navigation et la structure d'une application web (Anglais) - [All About React Router 4](https://css-tricks.com/react-router-4/)
 * UI - [Semantic UI for React](https://react.semantic-ui.com/introduction) ou [Grommet](https://grommet.github.io/)
 * UI data grid - [Griddle](https://griddlegriddle.github.io/Griddle/)
+* Support natif par REACT d'icônes et de composants Bootstrap [FontAwesome](http://fontawesome.io/examples/)
 
 ### ![Logo Redux](images/redux.png "Redux") Redux
 
