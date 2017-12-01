@@ -11,6 +11,8 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 
 ## Web
 
+* Cheatsheet  [The best front-end hacking cheatsheets - all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+
 ### ![Logo Angular](images/angular.png "Angular") Angular
 
 * Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
