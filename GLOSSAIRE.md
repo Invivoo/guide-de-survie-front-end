@@ -1,2 +1,0 @@
-* Winform : TODO
-* WPF : TODO
