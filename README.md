@@ -13,6 +13,7 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 
 * Cheatsheet  [The best front-end hacking cheatsheets - all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * CSS/Flexbox [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Online code editor for React/Angular/Vuejs [CodeSandbox](https://codesandbox.io/)
 
 ### ![Logo Angular](images/angular.png "Angular") Angular
 
@@ -43,6 +44,9 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * [Reselect - Selector library for Redux](https://github.com/reactjs/reselect)
 
 ### Toolbox
+
+* Générateur de fake data [Faker](https://github.com/marak/Faker.js/)
+* Fake REST Api [json-server](https://github.com/typicode/json-server)
 
 #### NodeJS
 
