@@ -126,3 +126,4 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * ES6 Katas (Anglais) - [Learn ES6 by doing it. Fix failing tests. Keep all learnings.](http://es6katas.org/)
 * Comprendre l'opérateur *this* en javascript - [A different way of understanding this in JavaScript](http://2ality.com/2017/12/alternate-this.html)
 * Guide de l'ensemble des frameworks populaires (Anglais) - [The ultimate guide to javascript frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+* Alternative to Pluralsight qui permet d'apprendre plein de libraries JS, axé sur la pratique: https://egghead.io
