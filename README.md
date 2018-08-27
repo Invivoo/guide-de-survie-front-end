@@ -14,12 +14,15 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * Cheatsheet  [The best front-end hacking cheatsheets - all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * CSS/Flexbox [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Online code editor for React/Angular/Vuejs [CodeSandbox](https://codesandbox.io/)
+* Yet another code editor for React and Angular (but not as shiny as the one above): [StackBlitz](https://stackblitz.com)
 
 ### ![Logo Angular](images/angular.png "Angular") Angular
 
 * Tutoriel - Débuter avec Angular (Anglais) - [Angular Quickstart](https://angular.io/guide/quickstart)
 * Article - Bien structurer son projet (Anglais) - [Style Guide Angular](https://angular.io/guide/styleguide)
 * Article - Inclure un projet Angular dans une application Spring Boot - [Blog JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
+* PDF book - permet d'atteindre un niveau intermediaire: [Angular From Theory To Practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
+* Articles - fonctionnement interne (changes detection, zone.js, etc.) de Angular 2+: [Angular In Depth](https://blog.angularindepth.com)
 
 ### ![Logo ReactJS](images/reactjs.png "ReactJS") ReactJS
 
@@ -117,9 +120,10 @@ Bienvenue dans le guide du développeur Front-End d'Invivoo, ce guide a été é
 * [Convertisseur PNG -> ICO](http://www.pngfactory.net/customxp/conversion-png-ico-en-ligne.html)
 
 ### Javascript
-
+* JS from scratch: [javascript.info](http://javascript.info)
 * Livre en ligne (Anglais) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * Présentation (Anglais) - [All of Modern JavaScript in 45 minutes! ES6, ES2015, ECMAScript, NodeJS, npm, Babel, webpack, ReactJS, JSX... and of course ... the 12 new JS things they invent during this presentation](https://www.slideshare.net/weaverryan/finally-professional-frontend-dev-with-reactjs-webpack-symfony-symfony-cat-2016?from_m_app=ios) 
 * ES6 Katas (Anglais) - [Learn ES6 by doing it. Fix failing tests. Keep all learnings.](http://es6katas.org/)
 * Comprendre l'opérateur *this* en javascript - [A different way of understanding this in JavaScript](http://2ality.com/2017/12/alternate-this.html)
 * Guide de l'ensemble des frameworks populaires (Anglais) - [The ultimate guide to javascript frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+* Alternative to Pluralsight qui permet d'apprendre plein de libraries JS, axé sur la pratique: https://egghead.io
